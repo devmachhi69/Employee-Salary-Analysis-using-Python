@@ -1,2 +1,13 @@
-# Employee-Salary-Analysis-using-Python
-This project analyzes employee salary data to find insights such as average salary by department, highest-paid employee, and salary distribution. It uses Pandas and Matplotlib for data cleaning and visualization.
+# 💼 Employee Salary Analysis using Python
+
+This mini data analytics project analyzes employee salaries to uncover insights such as:
+- Average salary by department  
+- Highest paid employee  
+- Salary distribution visualization  
+
+## 🧰 Tools Used
+- Python 3.x  
+- Pandas  
+- Matplotlib  
+
+## Auther - Dev Machhi
